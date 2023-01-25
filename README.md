@@ -4,7 +4,7 @@ I Will write on bioinformatics workshop we had from 23rd of january to 27th of j
 
 ##DAY 1
 installation of tools
-install
+>install
 Gitbash R studio
 
 ###DAY 2
