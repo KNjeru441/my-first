@@ -11,4 +11,4 @@ Gitbash R studio
 introduction to command line
 
 ####DAY 3 
-introduction to git
+**introduction to git**
